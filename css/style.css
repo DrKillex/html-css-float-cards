@@ -63,6 +63,8 @@ h1 {
 
 .box-content > * {
     padding: 5px 0;
+    width: 70%;
+    float: right;
 }
 
 .box-content div:first-child{
