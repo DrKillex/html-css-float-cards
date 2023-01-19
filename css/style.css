@@ -1,3 +1,5 @@
+/* *****css-starter-pack***** */
+
 * {
     margin: 0;
     padding: 0;
@@ -9,8 +11,25 @@
     clear: both;
 }
 
-/* *****css-starter-pack***** */
+/* *****\css-starter-pack***** */
+
+/* *****macro***** */
+
+main {
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* *****\macro***** */
+
+/* *****sezione alta***** */
+
+section {
+    text-align: center;
+}
 
 h1 {
-    color: aqua;
+    padding: 40px;
 }
+
+/* *****\sezione alta***** */
